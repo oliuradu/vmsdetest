@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063316532807",
+    "project_id": "stergere-7f5f0",
+    "storage_bucket": "stergere-7f5f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063316532807:android:1b86ab321f182f2fa80b62",
+        "android_client_info": {
+          "package_name": "com.ejump.vmsdetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063316532807-9q94htiaj90vsool99g1gp3nbakrs96n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8TZmaRly0BiBrWoTnJwnvqEdJSTZJUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063316532807-9q94htiaj90vsool99g1gp3nbakrs96n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
